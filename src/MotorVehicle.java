@@ -1,4 +1,4 @@
-public class MotorVehicle {
+public abstract class MotorVehicle {
     private String category;
     private boolean availability;
 
