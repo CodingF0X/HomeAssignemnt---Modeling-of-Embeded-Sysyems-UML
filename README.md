@@ -1,5 +1,5 @@
-Author : Jaafar Alkaales.
-Matriculation No. : 7218583
+Author : Jaafar Alkaales. <br/>
+Matriculation No. : 7218583 <br/>
 IDE used : VS Code.
 
 ## Getting Started
